@@ -1,0 +1,12 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:startColor="@color/purple"
+        android:endColor="@color/purple"
+        android:type="linear"
+        android:angle="90">
+    </gradient>
+    <corners android:topLeftRadius="0dp"
+        android:topRightRadius="0dp"
+        android:bottomLeftRadius="35dp"
+        android:bottomRightRadius="35dp" />    <!-- Скругление углов  -->
+</shape>

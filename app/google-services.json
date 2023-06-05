@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "172019152063",
+    "project_id": "projectneurot",
+    "storage_bucket": "projectneurot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172019152063:android:2faecd622cc8a559bac20a",
+        "android_client_info": {
+          "package_name": "com.example.projectneurotest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeMTtdu96o2iosw0gAvRuy-kJJep5g9nU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

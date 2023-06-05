@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Emotion Classification</string>
+    <string name="hiText">Прив прив!!</string>
+    <string name="ButtonButtonText">Жми жми жми!!</string>
+    <string name="descriptionPhoto">Your face =)</string>
+    <string name="title">Emotion Classification</string>
+    <string name="loadImage">Upload an image</string>
+    <string name="dialogAngry">In the photo someone is angry</string>
+    <string name="dialogDisgust">In the photo someone is disgusted</string>
+    <string name="dialogFear">In the photo someone is fearful</string>
+    <string name="dialogHappiness">In the photo someone is happiness</string>
+    <string name="dialogSadness">In the photo someone is sadness</string>
+    <string name="dialogSurprise">In the photo someone is surprise</string>
+    <string name="dialogNeutral">In the photo someone is neutral</string>
+    <string name="dialogNone">Face not found, try again</string>
+    <string name="dialogError">Error, try again</string>
+    <string name="OK_button">OK</string>
+</resources>
